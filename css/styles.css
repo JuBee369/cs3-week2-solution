@@ -26,7 +26,7 @@ header{
     box-sizing: border-box;
     float:left;
     border: 1px solid black;
-    height: 250px;
+    height: 300px;
     background-color: dimgrey;
     position: relative;
     padding: 92px 10px 10px 10px;
@@ -95,5 +95,9 @@ header{
     /*Bootstrap column dividing style for given assignment*/
     .col-sm-12 {
         width: 99%;
+    }
+
+    .colbox{
+        height: 220px;
     }
 }
