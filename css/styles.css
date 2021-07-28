@@ -86,6 +86,10 @@ header{
         width: 48.5%;
     }
 
+    .colbox{
+        height: 259px;
+    }
+
     #colbox3{
         width: 98%;
     }
