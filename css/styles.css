@@ -29,7 +29,7 @@ header{
     height: 250px;
     background-color: dimgrey;
     position: relative;
-    padding: 80px 10px 10px 10px;
+    padding: 92px 10px 10px 10px;
     border-radius: 8px;
 }
 
@@ -40,7 +40,7 @@ header{
     display: block;
     width: 54%;
     text-align: center;
-    font-family: monospace, fantasy;
+    font-family: WindSong,monospace, fantasy;
     font-size: 3em;
     padding: 10px;
     border: 1px solid black;
@@ -61,7 +61,7 @@ header{
 }
 
 .quotes{
-    font-family: patrick,Cedarville,Fondamento,cursive;
+    font-family: Palette Mosaic,cursive;
     font-size: 1em;
     /* clear:both; */
 }
