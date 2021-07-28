@@ -22,7 +22,7 @@ header{
 }
 
 .colbox{
-    margin: 1px;
+    margin: 5px;
     box-sizing: border-box;
     float:left;
     border: 1px solid black;
@@ -30,6 +30,7 @@ header{
     background-color: dimgrey;
     position: relative;
     padding: 80px 10px 10px 10px;
+    border-radius: 8px;
 }
 
 .sub_sec{
@@ -37,12 +38,13 @@ header{
     top: 0px;
     right: 0px;
     display: block;
-    width: 50%;
+    width: 54%;
     text-align: center;
     font-family: monospace, fantasy;
     font-size: 3em;
     padding: 10px;
     border: 1px solid black;
+    border-radius: 8px;
 }
 
 #sub1{
@@ -74,14 +76,14 @@ header{
 @media screen and (min-width: 992px){
     /*Bootstrap column dividing style for given assignment*/
     .col-lg-4 { 
-        width: 33%; 
+        width: 32%; 
     }
 }
 
 @media (min-width:768px) and (max-width:991px){
     /*Bootstrap column dividing style for given assignment*/
     .col-md-6 {
-        width: 49%;
+        width: 48.5%;
     }
 
     #colbox3{
@@ -92,6 +94,6 @@ header{
 @media screen and (max-width:767px){
     /*Bootstrap column dividing style for given assignment*/
     .col-sm-12 {
-        width: 100%;
+        width: 99%;
     }
 }
