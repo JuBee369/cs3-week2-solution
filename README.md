@@ -1,4 +1,7 @@
-# cs3-week2-solution
+# cs3-week2-assignment
+
+<strong>Hosted Link:</strong><a href="https://jubee369.github.io/cs3-week3-assignment/index.html" target="_blank" style="font-size: 2em;, font-weight: 800;,font-family: 'Abril Fatface',serif;">cs3 week2 solution</a>
+    
 
 Problem:
 
